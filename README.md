@@ -1,6 +1,6 @@
 # Statistical Analysis of Healthy Lifestyle Factors
 
-## 📌 Overview
+## Overview
 This project presents a comprehensive statistical analysis of a Healthy Lifestyle dataset using R.  
 The goal is to examine relationships between demographic characteristics, lifestyle behaviors, and key health indicators such as:
 
@@ -11,7 +11,7 @@ The goal is to examine relationships between demographic characteristics, lifest
 - Stress Level
 - Physical Activity
 
-## 📊 Dataset Information
+## Dataset Information
 - 374 samples
 - 13 attributes
 - Mixed numeric and categorical variables
@@ -29,7 +29,7 @@ Key variables include:
 - Daily Steps
 - Sleep Disorder
 
-## 🔬 Methods Used
+## Methods Used
 - Data cleaning and preprocessing
 - Descriptive statistics
 - Outlier detection (IQR method)
@@ -38,26 +38,30 @@ Key variables include:
 - Conditional probability analysis
 - Data visualization using ggplot2
 
-## 📈 Key Findings
+##  Key Findings
 - Very strong correlation between systolic and diastolic blood pressure (r ≈ 0.97)
 - Weak relationships between lifestyle factors and blood pressure
 - Moderate variation in heart rate across occupations
 - Doctors showed higher probability of Normal BMI compared to males overall
 
-## 🛠 Technologies
+##  Technologies
 - R
 - dplyr
 - ggplot2
 - reshape2
 - e1071
 
-## 📂 Project Structure
+##  Project Structure
 - `analysis_code.R` → Full R code
 - `Healthy_Lifestyle_Report.pdf` → Full report
 - `healthy_lifestyle.csv` → Dataset
 - `images/` → Generated visualizations
 
-## 📚 References
+## References
 - James et al. (2013). *An Introduction to Statistical Learning*. Springer.
 - Hastie et al. (2004). *The Elements of Statistical Learning*. Springer.
 - Fox & Weisberg (2019). *An R Companion to Applied Regression*.
+
+
+## Auther 
+Maram Alharbi
