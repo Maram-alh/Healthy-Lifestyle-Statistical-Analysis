@@ -1,3 +1,12 @@
+
+
+# -------------------------------------------------------
+# Statistical Analysis of Healthy Lifestyle Dataset
+# Author: Maram Alharbi
+# Tools: R, ggplot2, dplyr
+# -------------------------------------------------------
+
+
 # 1. load dataset
 df <- read.csv("healthy_lifestyle.csv", stringsAsFactors = FALSE)
 
